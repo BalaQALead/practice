@@ -1,1 +1,1 @@
-hello first second third
+hello first second
